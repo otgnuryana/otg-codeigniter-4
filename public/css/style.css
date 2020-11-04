@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(190, 130, 51);
+}
+
+#darkmode {
+    background: rgb(17, 11, 11);
+    color: white;
+}
+
+
+.sampul {
+    width: 70px;
+}
+
+.table>tbody>tr>* {
+    vertical-align: middle;
+}
+
+.navbar-dark {
+    background-color: rgb(17, 11, 11);
+    color: white;
+}
